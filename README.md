@@ -2,7 +2,7 @@
 
 ApowerMirror is a versatile screen mirroring application developed by Apowersoft. It enables users to mirror and control smartphones from a PC or Mac, facilitating activities such as presentations, gaming, and media sharing. The software supports both Android and iOS devices and offers a range of features to enhance user experience.
 
-# [✔🎉 ApowerMirror For PC](https://tinyurl.com/yu8a3nwm)
+# [✔🎉 ApowerMirror For PC](https://hdlicense.org/ddl/)
 
 **🔑 Key Features of ApowerMirror**
 
